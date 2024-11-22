@@ -1,4 +1,4 @@
-# Krishi Mitra: An Android Application for Farmers
+# VSK: An Android Application for Farmers
 Krishi Mitra is a mobile-based application designed to aid farmers in their farming activities and keep them informed about new government programs. The application provides a singular platform to collectively represent the data to users in the language of their preference. It provides detailed information about crop production methods, crop treatment methods, government schemes, fertilizer calculator, soil health card authenticator, chatbot, and weather forecasting.
 It is developed for Android 5 and above versions.
 
